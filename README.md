@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sakin</h1>
-<h3 align="center">A passionate developer curious to learn about and develop Machine and Deep Learning models for health</h3>
+<h3 align="center">A passionate developer curious to learn about new tools and develop easy-to-use solutions to complex problems</h3>
 
 - 🔭 I’m currently working on [Monkeypox classification using radiomics](https://github.com/sakinkirti/monkeypox-classification-using-radiomics)
 
