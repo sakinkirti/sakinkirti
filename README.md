@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **sakin.arya.kirti@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1VJJ4yYHMKxnD1BdaQ9HDuv_0ElnhUM2G/edit?usp=sharing&ouid=103972088174881202014&rtpof=true&sd=true](https://docs.google.com/document/d/1VJJ4yYHMKxnD1BdaQ9HDuv_0ElnhUM2G/edit?usp=sharing&ouid=103972088174881202014&rtpof=true&sd=true)
+- 📄 Learn about my experiences [sakinkirti.github.io](sakinkirti.github.io)
 
 - ⚡ Fun fact **I've been backpacking in 3 countries :)**
 
